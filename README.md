@@ -1,2 +1,3 @@
-# Jayanth-Landing-Page
+# CODSOFT
+
  Project Name - Jayanth Developing Works  Project Type   - Landing Page  Languages     - Basic Hyper Text Markup language and Cascading Style sheets  Colours - CSS used for Page Colour   Thank you for the wonder Full opportunity CodSoft   Thank You...
